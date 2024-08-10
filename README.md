@@ -30,6 +30,7 @@ p    :Move to previous window
 "     :Split horizontally
 x     :Kill pane
 q     :Show pane number
+arrow :Switch pane
 
 ```
 #### Resize pane
